@@ -23,7 +23,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     border-radius: 10px;
-    border: 2px double #E83635;
+    border: 4px double #E83635;
 }
 
 #mainelement button,
@@ -44,8 +44,8 @@ body {
     font-size: 36px;
 }
 
-.subcomponent {
-    margin-top: 55px;
+/* .subcomponent {
+    
     position: fixed;
     display: flex;
     flex-direction: column;
@@ -56,5 +56,5 @@ body {
     justify-content: space-evenly;
     align-items: center;
     border-radius: 10px;
-    border: 2px double #E83635;
-}
+    border: 6px double #E83635;
+} */
