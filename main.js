@@ -1,6 +1,6 @@
 $(function(){
     
-    $('button').on('click', function(){
+    $('#start').on('click', function(){
         $('#mainelement').fadeOut('4500');
     })
     const body = $('body').html();
